@@ -4,7 +4,7 @@ Subtitle: ""
 Date: 2024-01-24
 Lastmod : 
 Tags: [""]
-image : "/public/img/collections/caca.jpg"
+image : "/static/illustration_elevenlabs.png"
 Description: "ElevenLabs a récemment lancé une nouvelle fonction de doublage permettant aux utilisateurs reproduire l'audio d'une langue dans 28 autres langues"
 Draft: 
 ---
