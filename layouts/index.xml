@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Layouts on Kevin Bourgeois</title>
-    <link>https://lightbi-hugo-theme.netlify.app/layouts/</link>
+    <link>https://kevinbourgeois.github.io/labveille/layouts/</link>
     <description>Recent content in Layouts on Kevin Bourgeois</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>sample@gmail.com (Kevin Bourgeois)</managingEditor>
-    <webMaster>sample@gmail.com (Kevin Bourgeois)</webMaster><atom:link href="https://lightbi-hugo-theme.netlify.app/layouts/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>sample@gmail.com (Kevin Bourgeois)</webMaster><atom:link href="https://kevinbourgeois.github.io/labveille/layouts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://lightbi-hugo-theme.netlify.app/layouts/partials/footer_custom/</link>
+      <link>https://kevinbourgeois.github.io/labveille/layouts/partials/footer_custom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>sample@gmail.com (Kevin Bourgeois)</author>
-      <guid>https://lightbi-hugo-theme.netlify.app/layouts/partials/footer_custom/</guid>
+      <guid>https://kevinbourgeois.github.io/labveille/layouts/partials/footer_custom/</guid>
       <description> </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lightbi-hugo-theme.netlify.app/layouts/partials/head_custom/</link>
+      <link>https://kevinbourgeois.github.io/labveille/layouts/partials/head_custom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>sample@gmail.com (Kevin Bourgeois)</author>
-      <guid>https://lightbi-hugo-theme.netlify.app/layouts/partials/head_custom/</guid>
+      <guid>https://kevinbourgeois.github.io/labveille/layouts/partials/head_custom/</guid>
       <description> </description>
     </item>
     

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kevin Bourgeois</title>
-    <link>https://lightbi-hugo-theme.netlify.app/content/post/</link>
+    <link>https://kevinbourgeois.github.io/labveille/content/post/</link>
     <description>Recent content on Kevin Bourgeois</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>sample@gmail.com (Kevin Bourgeois)</managingEditor>
-    <webMaster>sample@gmail.com (Kevin Bourgeois)</webMaster><atom:link href="https://lightbi-hugo-theme.netlify.app/content/post/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>sample@gmail.com (Kevin Bourgeois)</webMaster><atom:link href="https://kevinbourgeois.github.io/labveille/content/post/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
