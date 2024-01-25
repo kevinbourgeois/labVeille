@@ -1,4 +1,4 @@
-baseURL = "https://lightbi-hugo-theme.netlify.app/"
+baseURL = "https://kevinbourgeois.github.io/labveille"
 DefaultContentLanguage = "en"
 languageCode = "en-us"
 title = "Kevin Bourgeois"
