@@ -3,22 +3,10 @@ DefaultContentLanguage = "en"
 languageCode = "en-us"
 title = "Kevin Bourgeois"
 theme = "lightbi2"
-metaDataFormat = "yaml"
-pygmentsStyle = "trac"
-#pygmentsUseClasses = true
-#pygmentsCodeFences = true
-pygmentsCodefencesGuessSyntax = true
-#pygmentsUseClassic = true
-#pygmentOptions = "linenos=inline"
-#disqusShortname = "XXX"
-#googleAnalytics = "XXX"
-enableRobotsTXT = true
-enableGitInfo = false
-Paginate = 6
+
 
 [Params]
 selfHosted = true
-mainSections = ["post","posts"]
 dateFormat = "2 January 2023"
 comments = false
 readingTime = false
@@ -32,9 +20,7 @@ gcse = false
 Lastmod = false
 rss = false 
 pagination = "10"
-hideAuthor = false
-authorInfo = "She was born to be free, let her run wild in her own way and you will never lose her."
-description="Your can add your website description here."
+hideAuthor = true
 
 
 [sitemap]
