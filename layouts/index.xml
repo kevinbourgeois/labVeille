@@ -5,14 +5,12 @@
     <link>https://kevinbourgeois.github.io/labVeille/layouts/</link>
     <description>Recent content in Layouts on Kevin Bourgeois</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <managingEditor>sample@gmail.com (Kevin Bourgeois)</managingEditor>
-    <webMaster>sample@gmail.com (Kevin Bourgeois)</webMaster><atom:link href="https://kevinbourgeois.github.io/labVeille/layouts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://kevinbourgeois.github.io/labVeille/layouts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://kevinbourgeois.github.io/labVeille/layouts/partials/footer_custom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>sample@gmail.com (Kevin Bourgeois)</author>
+      
       <guid>https://kevinbourgeois.github.io/labVeille/layouts/partials/footer_custom/</guid>
       <description> </description>
     </item>
@@ -21,7 +19,7 @@
       <title></title>
       <link>https://kevinbourgeois.github.io/labVeille/layouts/partials/head_custom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>sample@gmail.com (Kevin Bourgeois)</author>
+      
       <guid>https://kevinbourgeois.github.io/labVeille/layouts/partials/head_custom/</guid>
       <description> </description>
     </item>

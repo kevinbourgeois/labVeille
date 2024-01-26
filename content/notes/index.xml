@@ -5,8 +5,6 @@
     <link>https://kevinbourgeois.github.io/labVeille/content/notes/</link>
     <description>Recent content in Notes on Kevin Bourgeois</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <managingEditor>sample@gmail.com (Kevin Bourgeois)</managingEditor>
-    <webMaster>sample@gmail.com (Kevin Bourgeois)</webMaster><atom:link href="https://kevinbourgeois.github.io/labVeille/content/notes/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://kevinbourgeois.github.io/labVeille/content/notes/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

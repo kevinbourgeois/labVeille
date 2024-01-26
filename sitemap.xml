@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://kevinbourgeois.github.io/labVeille/content/about/</loc>
-    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://kevinbourgeois.github.io/labVeille/content/</loc>
+    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://kevinbourgeois.github.io/labVeille/</loc>
+    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -13,16 +23,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://kevinbourgeois.github.io/labVeille/content/collections/2023/collections4/</loc>
-    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://kevinbourgeois.github.io/labVeille/content/</loc>
-    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://kevinbourgeois.github.io/labVeille/</loc>
     <lastmod>2024-01-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
