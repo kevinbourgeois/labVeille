@@ -5,15 +5,15 @@ Date: 2024-01-24
 Lastmod : 
 Tags: [""]
 image : "/public/img/collections/caca.jpg"
-Description: "ElevenLabs a récemment dévoilé une nouvelle fonctionnalité révolutionnaire au sein de sa gamme d'outils d'intelligence artificielle dédiés à la manipulation et à l'amélioration vocale : la technologie Speech to Speech."
+Description: "ElevenLabs a récemment dévoilé une nouvelle fonctionnalité révolutionnaire au sein de sa gamme d'outils d'intelligence artificielle : la technologie Speech to Speech."
 Draft: 
 ---
 
 ### Résumé de l'article
-> ElevenLabs a récemment dévoilé une nouvelle fonctionnalité révolutionnaire au sein de sa gamme d'outils d'intelligence artificielle dédiés à la manipulation et à l'amélioration vocale : la technologie Speech to Speech. Cette dernière permet à son modèle d'IA de capturer l'intonation d'une voix sur un fichier audio pour pouvoir ensuite la retranscrire sur plus d'une cinquantaine de voix personnalisées.
+> ElevenLabs a récemment dévoilé une nouvelle fonctionnalité révolutionnaire au sein de sa gamme d'outils d'intelligence artificielle : la technologie Speech to Speech. Cette dernière permet à son modèle d'IA de capturer l'intonation d'une voix sur un fichier audio pour pouvoir ensuite la retranscrire sur plus d'une cinquantaine de voix personnalisées.
 
 ### Le lien avec ma profession
-> Cette fonctionnalité me permet de créer un contenu audio authentique en fusionnant le style et le contenu des messages avec une voix choisie, offrant ainsi une expérience plus engageante et personnalisée pour les auditeurs/followers. Cette innovation est particulièrement prometteuse pour renforcer la connexion avec l'audience, tout en diversifiant l'approche en matière de narration.
+> Cette fonctionnalité permet de créer un contenu audio sans devoir se préoccuper de quoi que se soit à part l'intonation. En effet, cela est vraiment pratique pour les créateurs de contenu qui souhaitent créer des vidéos au format "réel", mais qui ne sont pas à l'aise avec la nature de leur voix ou de la clarté de leur énonciation.
 
 ### Comment je vais l'appliquer
 

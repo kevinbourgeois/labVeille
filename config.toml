@@ -12,7 +12,7 @@ comments = false
 readingTime = false
 wordCount = false
 useHLJS = true
-socialShare = true
+socialShare = false
 delayDisqus = true
 showRelatedPosts = true 
 summaryLength  = "9"
@@ -30,58 +30,12 @@ hideAuthor = true
 
 [Author]
   name = "Kevin Bourgeois"
-  website = "https://binovarghese.com/"
-  email = "sample@gmail.com"
-  facebook = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  twitter = "username"
-  threads = "username"
-  linkedin = "username"
-  github = "username"
-  #gitlab = "username"
-  #bitbucket = "username"
-  #reddit = "username"
-  #xing = "username"
-  #stackoverflow = "users/XXXXXXX/username"
-  #snapchat = "username"
-  #soundcloud = "username"
-  #spotify = "username"
-  #bandcamp = "username"
-  #itchio = "username"
-  #vk = "username"
-  #paypal = "username"
-  #telegram = "username"
-  #500px = "username"
-  #codepen = "username"
-  #mastodon = "url"
-  #kaggle = "username"
-  #weibo = "username"
-  #slack = "username"
 
-[[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
 
-[[menu.main]]
-    name = "Notes"
-    url = "/notes/"
-    weight = 2
-
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/blog/"
-    weight = 3
-
-[[menu.main]]
-    name = "Collections"
-    url = "/collections/"
-    weight = 4
 
 [[menu.main]]
     name = "About"
-    url = "/about/"
+    url = "/content/about/"
     weight = 5
 
 

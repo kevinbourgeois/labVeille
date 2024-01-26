@@ -19,7 +19,7 @@ Pour effectuer ma veille concernant le métier de créateur de contenu/community
 > Je suis également abonné à plusieurs chaînes YouTube, telles que celle de [Gary Vee](https://garyvaynerchuk.com/), un pionnier du marketing sur les réseaux sociaux. YouTube est une plateforme que je consulte fréquemment, et en étant abonné à ce type de contenu, l'algorithme me propose automatiquement des vidéos pertinentes, me permettant ainsi de rester constamment à jour.
 
 ### Instagram
-> Tout comme sur YouTube, Instagram offre une veille similaire. En suivant quelques pages dédiées à la création de contenu et en utilisant certains hashtags, il est possible de rester informé de manière continue. Cette approche est relativement simple, compte tenu du temps que nous passons en moyenne une à deux heures par jour sur les réseaux sociaux.
+> Tout comme sur YouTube, Instagram offre une veille similaire. En suivant quelques pages dédiées à la création de contenu et en suivant certains hashtags, il est possible de rester informé de manière continue. Cette approche est relativement simple, compte tenu du temps que nous passons en moyenne par jour sur les réseaux sociaux.
 
 
 
